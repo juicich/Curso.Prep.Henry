@@ -1,0 +1,9 @@
+Variales: es una forma de almacenar algo para usarlo despues cuando sea necesario
+
+String: Son bloques (sucesiones) o cadenas de caracteres.
+
+Funciones:son tipos particulares de objetos. Realizan acciones. Son llamado objetos invocables
+
+Declaraciones if:es una forma de verificar si algo cumple con una determinada condicion (Mayor, menor, igual, etc) o no
+
+Valores Booleanos: Un valor booleano tiene unicamente dos posibilidades: Verdadero o Falso, 0 o 1 (binario)
