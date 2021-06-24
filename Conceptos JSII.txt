@@ -1,0 +1,7 @@
+For: es una instruccion que crea un bucle, el que se utiliza para evaluar expresiones. Se ejecuta siempre y cuando la condicion sea verdadera
+&&: es un operador LOGICO (AND). se usa para evaluar expresiones y devolvera verdadero si AMBAS lo son. Caso contrario (una o dos son falsas) devolvera false.
+
+||: es un operador logico (OR). A diferencia del anterior, devolvera verdadero si una o las dos expresiones lo son. Devolvera false si AMBAS expresiones son false
+
+!: es un operador logico NOT (Negado). Devolvera el valor booleano opuesto de lo que se le pasa
+

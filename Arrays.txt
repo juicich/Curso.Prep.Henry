@@ -1,0 +1,3 @@
+Definicion de Arrays
+
+Podemos pensar en los Arrays como un contenedor de datos. Un lugar donde almacenamos varios datos y luego podemos consultar o trabajar con cada uno de ellos llamandolos por su posicion
