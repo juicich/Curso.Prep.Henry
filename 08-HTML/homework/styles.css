@@ -1,0 +1,36 @@
+h1{
+    color: aquamarine;
+    text-align: center;
+    
+}
+h3{
+    text-align: center;
+}
+
+h4{
+    text-align: center;
+}
+img{
+    width: 400px;
+}
+div{
+    justify-content: center;
+}
+#thirdDiv{
+    width: 500px;
+    height: 600px;
+    background-color: blueviolet;
+    padding: 50px;
+    border-color: crimson;
+    border-style: double;
+    border-width: 2px;
+   
+}
+#spanId{
+    font-size: 18px;
+    margin: 50px;
+}
+.divClass{
+    background-position: center;
+
+}
