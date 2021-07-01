@@ -1,3 +1,8 @@
+body {
+    background: url(/Curso.Prep.Henry/08-HTML/homework/img/lago.jpg) no-repeat;
+    background-size: 100%;
+    justify-content: center;
+}
 h1{
     color: aquamarine;
     text-align: center;
@@ -15,6 +20,7 @@ img{
 }
 div{
     justify-content: center;
+    text-align: center;
 }
 #thirdDiv{
     width: 500px;
@@ -23,12 +29,13 @@ div{
     padding: 50px;
     border-color: crimson;
     border-style: double;
-    border-width: 2px;
-   
+    border-width: 10px;
+    
 }
 #spanId{
     font-size: 18px;
     margin: 50px;
+
 }
 .divClass{
     background-position: center;
